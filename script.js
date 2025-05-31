@@ -103,5 +103,6 @@ document.addEventListener('DOMContentLoaded', () => {
                 commentsList.appendChild(commentItem);
             });
         }
+        
     }
 });
